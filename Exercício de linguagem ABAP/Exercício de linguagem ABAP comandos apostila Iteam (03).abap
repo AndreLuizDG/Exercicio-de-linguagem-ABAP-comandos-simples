@@ -1,3 +1,5 @@
+* 3. Leia a data atual do sistema e escreva em portuguÃªs a data por extenso.
+
  REPORT z_algj_08.
 
  DATA: lv_user    TYPE sy-uname,
@@ -18,4 +20,4 @@
    ENDIF.
  ENDDO.
 
- WRITE: / 'O nome do usuário contém', lv_vowels, 'vogais'.
+ WRITE: / 'O nome do usuï¿½rio contï¿½m', lv_vowels, 'vogais'.

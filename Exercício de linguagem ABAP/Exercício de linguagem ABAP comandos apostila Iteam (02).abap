@@ -1,3 +1,5 @@
+* 2. Concatene duas palavras e o mês atual, unindo por “-“ e escreva o resultado.
+
 REPORT Z_ALGJ_06.
 
 DATA:
@@ -6,7 +8,7 @@ DATA:
   mes          TYPE string,
   concatenacao TYPE string.
 
-palavra1 = 'M�S'.
+palavra1 = 'M�S'.
 palavra2 = 'atual'.
 mes      = sy-datum+4(2).
 

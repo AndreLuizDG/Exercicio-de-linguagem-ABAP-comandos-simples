@@ -1,3 +1,8 @@
+* 11. Faça uma rotina que deve conter uma workarea com 5 campos de tipos 
+* diferentes ou mais, esta deve ser populada e os seus campos devem ser impressos um 
+* em cada linha, separados por duas linhas horizontais.
+
+
 REPORT z_algj_15.
 
 TYPES:

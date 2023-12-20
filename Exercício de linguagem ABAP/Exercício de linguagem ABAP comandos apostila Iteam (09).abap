@@ -1,3 +1,8 @@
+* 9. Faça uma rotina que receba dois números e retorne um flag (caracter de 
+* tamanho 1). Caso os números sejam iguais a flag retornada será ‘X’ e caso contrário a 
+* flag será igual a ‘ ‘ (space)
+
+
 REPORT z_algj_13.
 
 DATA:
@@ -26,9 +31,9 @@ FORM zf_maior_valor USING:   v1
 
   IF v1 = v2.
     flag = abap_true.
-    WRITE: 'A flag est� marcada: ', flag.
+    WRITE: 'A flag est� marcada: ', flag.
   ELSE.
     flag = abap_false.
-    WRITE: 'A flag n�o est� marcada: ', flag.
+    WRITE: 'A flag n�o est� marcada: ', flag.
   ENDIF.
 ENDFORM.

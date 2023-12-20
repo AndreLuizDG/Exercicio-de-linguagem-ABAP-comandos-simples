@@ -1,3 +1,6 @@
+* 5. Conte quantas vogais há no nome do usuário executando o programa e imprima 
+* o resultado
+
 REPORT z_algj_07.
 
 DATA:

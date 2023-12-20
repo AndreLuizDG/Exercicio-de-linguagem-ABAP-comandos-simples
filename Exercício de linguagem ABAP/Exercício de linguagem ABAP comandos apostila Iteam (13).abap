@@ -1,3 +1,6 @@
+* 13. FaÃ§a uma rotina que receba uma workarea e some todos os seus campos 
+* numÃ©ricos (a workarea deve conter no mÃ­nimo 3 campos deste tipo)
+
 REPORT Z_ALGJ_17.
 
 types:
@@ -27,6 +30,6 @@ FORM zf_soma_dinheiro USING wa_pessoa TYPE type_pesoa.
          wa_pessoa-dinheiro_banco2 +
          wa_pessoa-dinheiro_banco3.
 
-  WRITE: 'A soma do dinheiro nas três contas bancarias é: ', soma.
+  WRITE: 'A soma do dinheiro nas trï¿½s contas bancarias ï¿½: ', soma.
 
 ENDFORM.

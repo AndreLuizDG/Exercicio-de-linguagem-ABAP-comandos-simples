@@ -1,3 +1,6 @@
+* 6. Faça uma rotina (FORM) que imprima o username de todas as pessoas de do 
+* treinamento (Veja a tabela USR04 na SE11 e seu conteúdo)
+
 REPORT Z_ALGJ_09.
 
 DATA: ti_usr04 TYPE TABLE OF usr04,

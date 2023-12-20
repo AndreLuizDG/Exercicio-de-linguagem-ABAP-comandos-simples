@@ -1,3 +1,8 @@
+* 10. Faça uma rotina que recebe dois números e escreve o resultado da operação 
+* [maior_numero / menor_numero] caso os números sejam diferentes e escreva o 
+* resultado de [número ^ 2] caso sejam iguais.
+
+
 REPORT z_algj_14.
 
 DATA:

@@ -1,7 +1,7 @@
 *----------------------------------------------------------------------------*
-*20. Faça uma rotina que contenha um select-option para um campo numérico sem
-*o botão de seleção de ranges múltiplos e, que imprima os números deste range
-*separados por “, “.
+*20. FaÃ§a uma rotina que contenha um select-option para um campo numÃ©rico sem
+*o botÃ£o de seleï¿½ï¿½o de ranges mÃºltiplos e, que imprima os nÃºmeros deste range
+*separados por ï¿½, ï¿½.
 *----------------------------------------------------------------------------*
 REPORT Z_ALGJ_24.
 

@@ -1,3 +1,6 @@
+* 8. FaÃ§a uma rotina que receba dois nÃºmeros e retorne o maior deles (caso os 
+* nÃºmeros sejam iguais retorne o prÃ³prio nÃºmero).
+
 REPORT z_algj_11.
 
 DATA:
@@ -24,10 +27,10 @@ FORM zf_maior_valor USING: v1
                            v2.
 
   IF v1 > v2.
-    WRITE: 'O primeiro valor é o maior: ', v1.
+    WRITE: 'O primeiro valor ï¿½ o maior: ', v1.
   ELSEIF v1 = v2.
-    WRITE: 'Os valores são iguais: ', v1, v2.
+    WRITE: 'Os valores sï¿½o iguais: ', v1, v2.
   ELSE.
-    WRITE: 'O segundo valor é o maior: ',v2.
+    WRITE: 'O segundo valor ï¿½ o maior: ',v2.
   ENDIF.
 ENDFORM.

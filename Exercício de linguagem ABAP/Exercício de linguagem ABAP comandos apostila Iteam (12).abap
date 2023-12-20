@@ -1,3 +1,6 @@
+* 12. Faça uma rotina que receba uma workarea contendo 5 tipos de dados 
+* diferentes e conte quantos campos não estão preenchidos. Imprimir resultado.
+
 REPORT z_algj_16.
 
 TYPES:
